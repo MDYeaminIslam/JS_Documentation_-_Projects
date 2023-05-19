@@ -1,0 +1,21 @@
+{
+	"persons": [{
+			"name": "John",
+			"age": "30",
+			"hometown": "Dhaka",
+			"married": false
+		},
+		{
+			"name": "John",
+			"age": "30",
+			"hometown": "Dhaka",
+			"married": false
+		},
+		{
+			"name": "John",
+			"age": "30",
+			"hometown": "Dhaka",
+			"married": false
+		}
+	]
+}
